@@ -30,7 +30,7 @@ Ensure that you have the following installed:
 ### Instructions
 1. **Clone this repository**:
     ```bash
-    git clone https://github.com/your-username/vehicle-type-prediction-app.git
+    git clone https://github.com/your-username/vehicle-type-prediction-streamlit.git
     cd vehicle-type-prediction-app
     ```
 
